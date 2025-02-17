@@ -138,3 +138,6 @@ fun Context.isNfcSupported(): Boolean
 /** Checks whether the device supports host-based NFC card emulation (HCE). **/
 fun Context.isHceSupported(): Boolean
 ```
+
+## Issues
+If you encounter any issues, check the [KNOWN_ISSUES](KNOWN_ISSUES.md) file or create a new issue in the repository.
